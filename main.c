@@ -3,7 +3,8 @@
 int main(void){
 
     printf("Hello,World\n");
-    zzz
+    printf("sassasa\n");
+
 
     return 0;
 }
